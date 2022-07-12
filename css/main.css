@@ -1,0 +1,294 @@
+body {
+    background-color: #fff;
+}
+.container{
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 0 90px;
+}
+.header{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+.logo_image{
+    display: block;
+}
+.nav{
+    display: flex;
+    list-style: none;
+    margin-left: auto;
+    margin-right: 200px;
+}
+.nav_item{
+    margin: 0 20px;
+}
+.nav_link{
+    text-decoration: none;
+    color: black;
+}
+.text-t{
+    font-size: 20px;
+    display: block;
+    font-weight: 250;
+    line-height: 30px;
+    color: #97959c;
+}
+
+
+
+.trafalgarr {
+    text-decoration: none;
+    color: rgba(234, 231, 243, 0.558);
+    transition: 0.7s;
+}
+
+.tarfalgar {
+    text-decoration: none;
+    color: rgb(5, 1, 1);
+    transition: 0.7s;
+}
+
+
+
+.image {
+    width: 693px;
+    height: 598px;
+    margin: 50px;
+}
+
+.name {
+    display: flex;
+    justify-content: space-between;
+}
+
+.text {
+    margin-top: 130px;
+    margin-left: 120px;
+}
+
+.btn-banner {
+    margin-left: 120px;
+    margin-top: 60px;
+}
+
+.btn-banner {
+    background-color: #458FF6;
+    border-radius: 55px;
+    border: 1px solid #458FF6;
+    padding: 16px 50px;
+    color: #fff;
+    transition: 0.7s;
+    font-size: 20px;
+}
+
+.our-service {
+    text-align: center;
+    margin: 20px 150px;
+    margin-top: 200px;
+}
+
+
+
+
+.card {
+    border: none;
+    width: 360px;
+    height: 360px;
+    border-radius: 20px;
+    background-color: #fff;
+    
+    
+}
+
+.card:hover {
+    box-shadow: 10px 40px 50px 0px #e4d3d352;
+    transition: 0.5s;
+}
+
+.card-item {
+    padding: 50px 30px;
+
+}
+
+.select-one,
+.select-two {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.learn_more {
+    background-color: #fff;
+    color: #458FF6;
+    border: #458FF6 1px solid;
+    border-radius: 55px;
+    padding: 16px 50px;
+    margin-top: 100px;
+    margin-left: 550px;
+    transition: 0.5s;
+}
+
+
+
+
+
+
+.content-news {
+    display: flex;
+    margin-top: 200px;
+}
+
+.text-dawnload{
+
+    margin: 50px 100px;
+}
+
+.liniya {
+    border-bottom: rgb(248, 244, 244) 3px solid;
+    width: 50px;
+}
+
+.leading {
+    background-color: #fff;
+    color: #458FF6;
+    border: #458FF6 1px solid;
+    border-radius: 55px;
+    padding: 16px 50px;
+    margin-top: 50px;
+    transition: 0.5s;
+
+}
+.download {
+    display: flex;
+}
+
+
+
+.Edward {
+    text-align: center;
+    background: linear-gradient(#76e1e9, #88c9e2);
+    width: 900px;
+    height: 400px;
+    margin: auto;
+    border-radius: 20px;
+    color: #fff;
+    margin-top: 300px;
+}
+
+.head h3 {
+    text-align: center;
+    padding-top: 40px;
+}
+
+.rangi {
+    margin-left: 385px;
+    border-bottom: #fff 3px solid;
+    width: 50px;
+}
+
+.feed-text {
+    display: flex;
+    margin: 30px 60px;
+}
+
+.feed-text img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: #fff 2px solid;
+}
+
+.bio {
+    width: 300px;
+    margin-left: 20px;
+}
+
+.text-feed {
+    width: 400px;
+    margin-top: 30px;
+}
+
+.bio h5 {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 5px;
+}
+
+.bio p {
+    margin: 0;
+}
+
+.text_out {
+    font-size: 14px;
+}
+
+
+
+
+.word {
+    text-align: center;
+    margin-top: 400px;
+}
+
+.lino {
+    margin: auto;
+}
+
+.lininiya {
+    border-bottom: #000 3px solid;
+    width: 50px;
+}
+
+.news {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.photo {
+    width: 400px;
+    height: 500px;
+  
+}
+
+.card-new img {
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    padding: 20;
+}
+
+.images p,
+h3,
+a {
+    padding: 5px 20px;
+}
+
+.images {
+    background-color: rgb(255, 255, 255);
+    border-radius: 40px;
+    margin-top: 30px;
+    box-shadow: 10px 40px 50px 0px #E5E9F666;
+    transition: 0.5s;
+}
+
+.images:hover {
+    box-shadow: 10px 40px 50px 0px #53525266;
+    transition: 0.5s;
+}
+
+.images a {
+    color: #458FF6;
+    text-decoration: none;
+}
+
+.button-1 {
+    background-color: rgba(255, 255, 255, 0.918);
+    color: #458FF6;
+    border: #458FF6 1px solid;
+    border-radius: 40px;
+    padding: 25px 50px;
+    margin-top: 60px;
+    margin-left: 500px;
+}
